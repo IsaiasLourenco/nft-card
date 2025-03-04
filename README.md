@@ -62,7 +62,7 @@ Make all separate files, one for reset, reset.css, another for styling, style.cs
   </body> 
 
    <footer class="footer">
-     Challenge by <a href="https://www.           frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
      Coded by <a href="https://github.com/IsaiasLourenco" target="_blank">Isaias Lourenço</a>.
    </footer>
 
